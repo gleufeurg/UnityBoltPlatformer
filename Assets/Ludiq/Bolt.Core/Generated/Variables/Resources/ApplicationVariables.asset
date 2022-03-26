@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2067819806, guid: c8d0ad23af520fe46aabe2b1fecf6462, type: 3}
+  m_Name: ApplicationVariables
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"declarations":{"collection":{"$content":[{"name":"DeathEvent","value":{"$content":"event::death","$type":"System.String"},"$version":"A"},{"name":"PlayerTag","value":{"$content":"Player","$type":"System.String"},"$version":"A"},{"name":"LevelChangeEvent","value":{"$content":"event::LevelChange","$type":"System.String"},"$version":"A"},{"name":"HealthChange","value":{"$content":"event::healthChange","$type":"System.String"},"$version":"A"},{"name":"PlayerTakeDamage","value":{"$content":"event::PlayertakeDamage","$type":"System.String"},"$version":"A"},{"name":"EnemyTag","value":{"$content":"Enemy","$type":"System.String"},"$version":"A"},{"name":"playSfx","value":{"$content":"event::playSfx","$type":"System.String"},"$version":"A"},{"name":"playBgMusic","value":{"$content":"event::playbgmusic","$type":"System.String"},"$version":"A"},{"name":"enemyDeath","value":{"$content":"event::EnemyDeath","$type":"System.String"},"$version":"A"},{"name":"playerGainHeart","value":{"$content":"event::PlayerGainHeart","$type":"System.String"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _objectReferences: []
