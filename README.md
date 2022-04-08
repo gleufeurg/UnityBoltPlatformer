@@ -7,3 +7,4 @@ Educational project - Game design 1 - Lisaa
 
 --
 gd1 YopSolo
+GD1 Pedrito64
