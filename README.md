@@ -5,6 +5,7 @@
 
 Educational project - Game design 1 - Lisaa
 
---
-gd1 YopSolo
+---
+
+trinytia Alexandre_S
 GD1 Pedrito64
