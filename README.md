@@ -4,3 +4,6 @@
 - tools > bolt > setup wizard
 
 Educational project - Game design 1 - Lisaa
+
+--
+gd1 YopSolo
